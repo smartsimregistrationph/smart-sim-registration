@@ -23,7 +23,7 @@ It usually takes just a few minutes to complete, and you’ll get a confirmation
 **Need to Register a Smart eSIM?**
 
 If you’re using an eSIM instead of a physical SIM card, the registration process is almost the same!
-Check out this helpful guide for (Smart eSIM registration)[https://smartsimregistrationph.ph/how-to-register-smart-esim/] to learn how to activate and register it easily.
+Check out this helpful guide for <a href="https://smartsimregistrationph.ph/how-to-register-smart-esim/" target="_blank" rel="noopener noreferrer">Smart eSIM registration</a>  to learn how to activate and register it easily.
 
 Why It’s Important to Register Your SIM
 
