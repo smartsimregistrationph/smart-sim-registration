@@ -7,7 +7,7 @@ Smart SIM Registration is the official process required by the SIM Registration 
 Every Smart user must register their SIM online by providing valid ID information and personal details.
 
 Read the full step-by-step registration guide here:
-(Smart SIM Registration Philippines)[https://smartsimregistrationph.ph/]
+<a href="https://smartsimregistrationph.ph/" target="_blank" rel="noopener noreferrer">Smart SIM Registration Philippines</a>
 
 **How to Register Your Smart SIM Online**
 
